@@ -9,7 +9,7 @@ if os.path.isfile("data.csv"):
     n = 1
 else:
     n = 50
-
+# chus thichs
 for i in range(0,n):    
     X, y = make_regression(10000,n_features = 10)
     df = pd.DataFrame(X)
