@@ -1,4 +1,4 @@
-from scikit-learn.datasets import make_regression
+from sk-learn.datasets import make_regression
 import pandas as pd
 import os
 import numpy as np
